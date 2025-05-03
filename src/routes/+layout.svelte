@@ -12,9 +12,9 @@
       <li><a href="/under_development">Projects</a></li>
     </ul>
     <ul class="nav-links">
-      <li><a href="/under_development" > <img src="/github_icon.svg"title="Github" alt="Github" class="icon"/></a></li>
-      <li><a href="/under_development" > <img src="/linkedin_icon.svg" title="LinkedIn" alt="LinkedIn" class="icon"/></a></li>
-      <li><a href="/under_development" > <img src="/resume_icon.svg" title="Download Resume" alt="Resume" class="icon"/></a></li>
+      <li><a href="https://github.com/kzfubar" > <img src="/github_icon.svg"title="Github" alt="Github" class="icon"/></a></li>
+      <li><a href="https://linkedin.com/in/kevinzefu" > <img src="/linkedin_icon.svg" title="LinkedIn" alt="LinkedIn" class="icon"/></a></li>
+      <li><a href="/kzfu-resume.pdf" download> <img src="/resume_icon.svg" title="Download Resume" alt="Resume" class="icon"/></a></li>
     </ul>
   </div>
 </nav>
